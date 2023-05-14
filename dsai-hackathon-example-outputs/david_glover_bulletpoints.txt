@@ -1,0 +1,36 @@
+- Dave Glover from Microsoft gives a presentation on open AI and chat GPT at the DSAI hackathon.
+- He discusses the history of AI research and breakthroughs, leading up to the development of chat GPT.
+- He emphasizes the potential for innovation in the area of advanced models becoming the new compute platform.
+- Glover invites attendees to connect with him for any questions or further discussion.
+- The speaker in another section discusses the evolution of AI from expert systems to generative AI.
+- They explain that generative AI is capable of understanding the semantic meaning of a query and responding back in human-like natural language.
+- The speaker discusses the collaboration between Microsoft and OpenAI in developing advanced AI systems and building supercomputer infrastructure.
+- They mention four families of models that can be deployed into Azure, including GPT-3, chat GPT, Codex, and DALI.
+- The speaker demonstrates the use of prompts and chat completions with GPT-3, as well as the specialized models for building out coding with Codex and generative images with DALI.
+- The speaker talks about the advanced AI models that enterprise customers are currently using and how startups can sell into these customers.
+- They also discuss how Microsoft is enhancing Office and Dynamics with OpenAI and using prompts to kickstart emails or proposals.
+- The video covers the use of advanced AI models in application platforms like Power BI, where customers want to be more productive.
+- The speaker discusses the range of services offered by Microsoft, including bot services, cognitive search, and video indexing.
+- The video talks about cognitive services that exist in layers like vision, speech, language, and decision support.
+- The speaker discusses responsible AI and how organizations are using AI to be more productive.
+- They give an example of Microsoft Tay, an AI model that was taken down due to its inappropriate behavior.
+- The speaker emphasizes the importance of responsible AI and how Microsoft is committed to ensuring its AI models are ethical and unbiased.
+- The speaker discusses Microsoft's initiative on Responsible AI and its six principles, including the need for private and inclusive data, accountability, transparency, fairness, and safety.
+- Microsoft provides tools and processes to help organizations build responsible AI models, such as content filtering and a responsible AI dashboard.
+- The speaker emphasizes the importance of trust in data usage and highlights how Azure OpenAI service allows users to create an instance of a model in their own tenant for secure data interaction.
+- The speaker discusses the importance of data privacy and security in AI models and notes that the data used to train the models is held in encrypted storage.
+- OpenAI is a good choice for general purpose models, but organizations have complex needs that require a range of AI solutions to build an overall solution.
+- The speaker provides some use cases such as call center analytics, content generation, and semantic search.
+- The speaker talks about a scenario where paper forms are still prevalent and explains how AI can be used to process them.
+
+- Section 7 of the DSAI hackathon youtube video discusses the use of Azure OpenAI for information extraction from various sources such as emails, forms, and call centers
+- Chat GPT is recommended as a default model and can be downgraded to cheaper models if necessary
+- The speaker explains key terms such as prompts, context, and tokens and provides a demo of the Azure OpenAI Playground
+- OpenAI models can be trained to act as a marketing assistant by setting context and prompts and can extract entities from a conversation to structure information
+- Chat GPT models can be trained to behave like a SQL server by instructing the model what to behave as
+- DALI is a model that can be used to create pop art-style superheroes and can be used for various creative applications
+- The speaker demonstrates how to generate AI superheroes using text-based models and suggests that these models can be used in applications
+- The speaker emphasizes the importance of responsible AI and content filtering to prevent inappropriate responses
+- The speaker recommends various learning modules and resources for those interested in learning more about generative models and AI business
+- Azure for Students is a program that provides access to Azure for university students without requiring a credit card and anyone can create a subscription and use Azure, including children playing around with it at home
+- The Q&A session includes questions about the accessibility of Azure AI for startups and how it compares to Amazon's security extension solution. The speaker cannot comment on the latter but emphasizes Microsoft's focus on enterprise customers and their need for enterprise-grade security and governance.

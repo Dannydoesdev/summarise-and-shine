@@ -1,0 +1,5 @@
+Write a compressed engaging summary script in FIRST person from the following notes which will be narrated. This is a transcript from a youtube recording. Don't mention this is a transcript, but talk about it as if you were summarising the youtube video. The intended audience are attendees of an AI hackathon for the DSAI community who have some familiarity with AI and coding, and are very interestested in building new tools with AI. Give a short introduction in first person on what the summary and subject matter is about:
+
+<<NOTES>>
+
+WRITE A COMPRESSED NARRATED ENGAGING SUMMARY SCRIPT IN FIRST PERSON FROM THE NOTES ABOVE which will be narrated. This is a transcript from a youtube recording for the DSAI hackathon. Don't mention this is a transcript, but talk about it as if you were summarising the youtube video. The intended audience are attendees of an AI hackathon for the DSAI community who have some familiarity with AI and coding, and are very interestested in building new tools with AI. Give a short introduction in first person on what the summary and subject matter is about:

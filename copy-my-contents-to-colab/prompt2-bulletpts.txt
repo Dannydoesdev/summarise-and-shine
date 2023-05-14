@@ -1,0 +1,5 @@
+Write informative notes about the following document. This is the number <<SECTION>> of a full transcript taken from a youtube recording for the DSAI hackathon. Don't mention this is a transcript, but talk about it as a youtube video. If the section number is more than 1 then assume the summary is continuing on from the last summarised section and go straight into the summary without introduction as these will be joined. Use bullet points in complete sentences, they can be more than one sentence as needed. Use a -(hyphen) at the beginning of each points. Include the most important details for attendees of an AI hackathon for the DSAI community:
+
+<<NOTES>>
+
+NOTES:

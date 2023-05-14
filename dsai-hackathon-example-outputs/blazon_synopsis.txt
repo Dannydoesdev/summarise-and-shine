@@ -1,0 +1,13 @@
+Hey there, fellow AI enthusiasts! I'm so excited to share with you an amazing video I recently watched, which introduces Blazon, a startup revolutionizing the AI landscape with its no-code development platform and prepackaged software components.
+
+In the video, Jesse showcases Blazon's two main offerings: Blazon capabilities, a software package with an API for seamless integration, and multi-flow, a low-code workflow building tool. One of the most impressive demonstrations is the structured synthesis feature that extracts financial metrics from an NVIDIA earnings call snippet - imagine the potential applications!
+
+The capabilities API allows users to extract metrics efficiently and supports Python and TypeScript. But the best part? It's open-source and free for up to 100,000 API requests per month.
+
+The video doesn't stop there; it takes us through building a research tool that helps users become experts on any topic using Blazon's capabilities. They suggest creating a master plan with brainstorming, curriculums, and using Wikipedia search functions. Vector search and search abstractions library are also introduced, opening up endless possibilities.
+
+The process of creating a search index for a Wikipedia subset is explained, and the video emphasizes the importance of having a business use case for hackathon submissions while exploring various applications in finance, law, education, and more.
+
+Lastly, the importance of verifying AI outputs and providing supporting passages for answers is discussed, with a demonstration of the document question answering endpoint.
+
+So, if you're as excited as I am about building new tools with AI, I highly recommend checking out Blazon's capabilities for your research. If you need more information, feel free to reach out to the speakers. Happy hacking!

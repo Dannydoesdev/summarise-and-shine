@@ -1,0 +1,7 @@
+Write a detailed summary of the following text, this is the number <<SECTION>> section of a full transcript taken from a youtube recording for the DSAI hackathon. Don't mention this is a transcript, but talk about it as a youtube video. If the section number is more than 1 then assume the summary is continuing on from the last summarised section and go straight into the summary without introduction as these will be joined. If the section is number 1 then briefly introduce what the summary and subject matter is about:
+
+
+<<SUMMARY>>
+
+
+Write a detailed summary of the text above, this is the number <<SECTION>> section of a full transcript taken from a youtube recording for the DSAI hackathon. Don't mention this is a transcript, but talk about it as a youtube video. If the section number is more than 1 then assume the summary is continuing on from the last summarised section and go straight into the summary without introduction as these will be joined. If the section is number 1 then briefly introduce what the summary and subject matter is about:

@@ -1,0 +1,15 @@
+- The video introduces Blazon, a startup providing a no-code development platform and prepackaged software components built on large language models.
+- Blazon offers two main tools: Blazon capabilities, a software package with an API for easy integration, and multi-flow, a low-code workflow building tool.
+- Jesse demonstrates the flagship capability, structured synthesis, which parses structured data from unstructured input.
+- The video showcases an example of extracting financial metrics from an NVIDIA earnings call snippet using Blazon's capabilities.
+- The capabilities API is introduced, enabling users to extract metrics quickly and efficiently, with support for Python and TypeScript.
+- Capabilities licensing and payment structure is discussed, with the product being open-source and free up to 100,000 API requests per month.
+- Jesse demonstrates a more complex demo, building a research tool that helps users become experts on a topic using Blazon's capabilities.
+
+- The speakers suggest creating a master plan for learning by brainstorming topics and questions, using a curriculum, and gathering information from Wikipedia pages with a search function.
+- They introduce the concept of vector search for creating a database of URLs and performing question answering, using the search abstractions library within capabilities.
+- The process of creating a search index for a subset of Wikipedia is explained, including gathering URLs, creating the index, and using a loop for posing queries and getting results.
+- The technology can be applied to various industries, such as finance and law, as well as personal use cases and education, functioning as a personal tutor or teaching assistant.
+- Emphasis is placed on having a business use case for hackathon submissions and exploring the wide range of potential applications for the technology.
+- The importance of verifying AI outputs and providing supporting passages for answers is discussed, with a demonstration of the document question answering endpoint.
+- Viewers are encouraged to download and use the capabilities for their research and can contact the speakers for more information.

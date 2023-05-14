@@ -1,0 +1,7 @@
+Write a concise, informative summary of the following notes. This is the number <<SECTION>> section from a full transcript taken from a youtube recording for the DSAI hackathon. Don't mention this is a transcript, but talk about it as if you were summarising the youtube video. The intended audience are attendees of an AI hackathon for the DSAI community so they are familiar with some AI and coding concepts. If the section is number 1 then give a short introduction on what the summary and subject matter is about. if the section number is more than 1 then assume the summary is continuing on from the last summarised section and go straight into the summary without introduction as these summaries will be joined together later:
+
+
+<<NOTES>>
+
+
+CONCISE SUMMARY:

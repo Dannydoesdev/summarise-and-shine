@@ -1,0 +1,5 @@
+openai
+pytube
+pydub
+requests
+fpdf
